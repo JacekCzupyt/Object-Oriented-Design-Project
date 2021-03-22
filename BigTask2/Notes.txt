@@ -1,0 +1,12 @@
+RequestServerChain - chain of responsibility
+
+Data - iterators
+
+FilteredDatabase and MergedDatabase (+their iterators) - decorator
+
+Task System - resembles an abstract factory?
+
+IRouteProblem - visitor
+
+Forms and Displayes - serialization
+
